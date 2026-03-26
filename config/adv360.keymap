@@ -23,7 +23,7 @@
         inv_1: invert_1 {
             compatible = "zmk,behavior-mod-morph";
             #binding-cells = <0>;
-            bindings = <&kp EXCLAMATION>, <&kp N1>;
+            bindings = <&kp EXCL>, <&kp N1>;
             mods = <(MOD_LSFT|MOD_RSFT)>;
         };
     };
