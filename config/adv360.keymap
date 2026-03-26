@@ -88,7 +88,7 @@
         default_layer {
             display-name = "Base";
             bindings = <
-&kp SQT    &invert_1  &invert_2 &invert_3 &invert_4  &invert_5 &tog 1                                                   &mo 3      &invert_6 &invert_7 &invert_8 &invert_9 &invert_0    &kp MINUS
+&kp SQT    &inv_1     &inv_2    &inv_3    &inv_4     &inv_5  &tog 1                                                     &mo 3      &inv_6  &inv_7  &inv_8     &inv_9    &inv_0    &kp MINUS
 &kp TAB    &kp Q      &kp W     &kp E     &kp R      &kp T   &none                                                      &none      &kp Y   &kp U   &kp I      &kp O     &kp P     &kp BSLH
 &kp SQT    &kp A      &kp S     &kp D     &kp F      &kp G   &to 4     &kp ESCAPE  &kp LALT       &kp LGUI   &kp END    &none      &kp H   &kp J   &kp K      &kp L     &kp SEMI  &kp EQUAL
 &kp LSHFT  &kp Z      &kp X     &kp C     &kp V      &kp B                         &kp HOME       &kp PG_UP                        &kp N   &kp M   &kp COMMA  &kp DOT   &kp FSLH  &kp RSHFT
